@@ -17,7 +17,7 @@ in grado di controllare le condizioni di **illuminazione** e **umidità** di una
 Il sistema opera in modo differenziato durante la **fase diurna** e la **fase notturna**, nel rispetto
 delle specifiche assegnate.
 
-Il progetto implementa **il sistema completo (Opzione 3)**, a cui è associato il 100% del punteggio.
+Il progetto implementa **il sistema completo (Opzione 3)**
 
 ---
 

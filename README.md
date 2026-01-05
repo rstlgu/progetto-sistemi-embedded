@@ -5,6 +5,12 @@
 
 ![Vista generica del progetto](./generic.png)
 
+## Simulazione 3D (Vite + Three.js)
+
+È disponibile una **simulazione 3D interattiva** del progetto, realizzata con **Vite** e **Three.js**, in una repository dedicata:
+
+- **Repo simulazione 3D**: [`embedded-threejs`](https://github.com/rstlgu/embedded-threejs)
+
 **Risorse rapide**
 - **Simulazione Tinkercad**: [Sistemi Embedded (Tinkercad)](https://www.tinkercad.com/things/gh0BfnCoX2i-sistemi-embedded?sharecode=TTvGELNoZXECAcyFkoqlZ9h0icSk7ExSVsb0CLtjCKg)
 - **Codice sorgente (C / Arduino)**: [`code.c`](./code.c)
